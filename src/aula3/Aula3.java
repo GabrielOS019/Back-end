@@ -2,7 +2,7 @@ package aula3;
 
 import java.util.Scanner;
 
-public class aula3 {
+public class Aula3 {
 
     static void main(){
         Scanner sc = new Scanner(System.in);
